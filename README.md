@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📫 How to reach me(Discord): **xTaiwanPingLord#9960**
+- 📫 How to reach me(Discord): [**xTaiwanPingLord#9960**](http://discordapp.com/users/684030271074730047)
 
 
 
