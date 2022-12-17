@@ -36,10 +36,10 @@
 
 
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtaiwanpinglord&show_icons=true&theme=dark&title_color=ffffff&text_color=eeeeee&bg_color=146171&locale=en&layout=compact" alt="xtaiwanpinglord" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtaiwanpinglord&show_icons=true&theme=vue-dark&layout=compact&hide=css&langs_count=6" alt="xtaiwanpinglord" />
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtaiwanpinglord&show_icons=true&theme=dark&title_color=ffffff&text_color=eeeeee&bg_color=137c61&locale=en" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtaiwanpinglord&show_icons=true&theme=vue-dark" alt="xtaiwanpinglord" />
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtaiwanpinglord&theme=dark" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtaiwanpinglord&theme=vue-dark&mode=weekly" alt="xtaiwanpinglord" />
 </p>
