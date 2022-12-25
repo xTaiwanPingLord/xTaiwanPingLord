@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xtaiwanpinglord&langs_count=6&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=6&username=xtaiwanpinglord&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="xtaiwanpinglord" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtaiwanpinglord&show_icons=true&theme=vue-dark&count_private=true" alt="xtaiwanpinglord" />
 <br>
