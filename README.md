@@ -37,9 +37,9 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=6&username=xtaiwanpinglord&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=6&username=xTaiwanPingLord&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="xtaiwanpinglord" />
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtaiwanpinglord&show_icons=true&theme=vue-dark&count_private=true" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xTaiwanPingLord&show_icons=true&theme=vue-dark&count_private=true" alt="xtaiwanpinglord" />
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xtaiwanpinglord&theme=vue-dark&mode=weekly" alt="xtaiwanpinglord" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xTaiwanPingLord&theme=vue-dark&mode=weekly" alt="xtaiwanpinglord" />
 </p>
