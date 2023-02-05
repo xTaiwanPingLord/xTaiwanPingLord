@@ -5,9 +5,9 @@
 
 
 
-- 📖 I’m currently working on [HUNG-YI LEE's ML2022 Homework](https://github.com/xTaiwanPingLord/ML2022-Spring-HW)
+- 📖 I’m currently working on **My own research about Video Restoration :)**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning** and **algorithm & data structure**
 
 - 📫 How to reach me(Discord): [**xTaiwanPingLord#9960**](http://discordapp.com/users/684030271074730047)
 
